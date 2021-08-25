@@ -18,7 +18,7 @@ Tabs of:
 + "Notas"
 + "Boletim"
 + "Horários"
-+ 
+
  *No database and data verification yet ⚠️
  
  To use just dowload the files and run index.html.
